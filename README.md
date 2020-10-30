@@ -1,8 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Preview](colorPalette.png?raw=true)
+
+## Description
+
+This Application was specially designed for front end developers who can check the color contrast between the font and the background. And also the User can create its own color Palette just like a dictionery which is frequently used by the User. This Application uses local storage which helps the user to save his/her color dictionery into the browser which could be used in the future use.
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+This will install all the Application Dependencies
 
 ### `npm start`
 
